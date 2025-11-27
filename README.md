@@ -55,3 +55,14 @@ Konfigurasi utama terdapat di `main.js`. Anda dapat mengubah URL target atau uku
 // main.js
 win.loadURL("http://127.0.0.1:8000"); // URL Backend Laravel
 ```
+
+## Galeri
+Berikut adalah tampilan aplikasi:
+
+
+![Screenshot C](c.png)
+![Screenshot A](a.png)
+
+saran: 
+Tambahkan efek loading pada aplikasi agar pengguna dapat mengetahui bahwa halaman sedang diproses. Saat aplikasi dijalankan dalam bentuk app, indikasi loading tidak selalu terlihat seperti saat dibuka melalui browser. Dengan adanya efek loading, pengalaman pengguna akan lebih jelas dan responsif saat berpindah menu.
+![Screenshot B](b.png)
